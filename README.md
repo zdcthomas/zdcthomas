@@ -1,6 +1,6 @@
 # Hey!
 ### I'm Zach
-I'm a developer (although right now I'm managing).
+I'm a developer.
 
 The repos that I've made that I'm proud of are the things that were the most fun to build.
 * [Dmux](https://github.com/zdcthomas/dmux) is a workspace manager for tmux (and probably the most widely used thing I've made).
